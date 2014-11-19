@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ataque de ojos", "Ataque de ojos\Ataque de ojos\Ataque de ojos.csproj", "{0CB498AA-CBE3-4F0D-B7A7-B0DFF2D42027}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Ataque de ojosContent", "Ataque de ojos\Ataque de ojosContent\Ataque de ojosContent.contentproj", "{8E5B12F0-F48D-4F54-80E0-3A7AD55A5FC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB498AA-CBE3-4F0D-B7A7-B0DFF2D42027}.Debug|x86.ActiveCfg = Debug|x86
+		{0CB498AA-CBE3-4F0D-B7A7-B0DFF2D42027}.Debug|x86.Build.0 = Debug|x86
+		{0CB498AA-CBE3-4F0D-B7A7-B0DFF2D42027}.Release|x86.ActiveCfg = Release|x86
+		{0CB498AA-CBE3-4F0D-B7A7-B0DFF2D42027}.Release|x86.Build.0 = Release|x86
+		{8E5B12F0-F48D-4F54-80E0-3A7AD55A5FC0}.Debug|x86.ActiveCfg = Debug|x86
+		{8E5B12F0-F48D-4F54-80E0-3A7AD55A5FC0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

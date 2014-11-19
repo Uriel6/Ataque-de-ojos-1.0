@@ -1,0 +1,72 @@
+1. perder, bool true al perder
+2. ganar, bool true al ganar
+3. facil, bool indica la dificultad/modo e inicia el juego
+4. medio, bool indica la dificultad/modo e inicia el juego
+5. dificil, bool indica la dificultad/modo e inicia el juego
+6. sup, bool indica el modo e inicia el juego
+7. punt, bool muestra la tabla de puntajes
+8. diff, bool muestra el menu de dificultad
+9. der, bool indica si se esta apretando la flecha derecha
+10. izq, bool indica si se esta apretando la flecha izquierda
+11. mus, bool indica si se esta reproduciendo musica
+12. teclap, teclae, bool indica si alguna tecla esta siendo presionada
+
+13. timer, int indica el tiempo de la invulnerabilidad del pj
+14. vidas, int cuenta las vidas restantes
+15. s, int cuenta los segundos restantes modo normal
+16. ms, int cuenta los milisegundos restantes modo normal
+17. ss, int cuenta los segundos restantes modo supervivencia
+18. mss, int cuenta los milisegundos restantes modo supervivencia
+19. cont, int cuanta la cantidad de puntajes que va a haber en la tabla
+20. scrollX, int controla el movimiento lateral del fondo
+
+21. tiempo, string guarda el tiempo a mostrar
+
+22. tPj, texture2D textura del personaje
+23. tOjo, texture2D textura de los ojos
+24. tFondo, texture2D textura del fondo
+25. tFondo2, texture2D textura del segundo fondo
+26. tVida, texture2D textura de las vidas
+27. tPerder, texture2D textura de fondo al perder
+28. tGanar, texture2D textura de fondo al ganar
+29. tZombie, texture2D textura del zombie
+30. tMenu, texture2D textura de fondo del menu
+
+31. posPj, Vector2 posicion del personaje
+32. posOjo1, Vector2 posicion del primer ojo
+33. posOjo2, Vector2 posicion del segundo ojo
+34. posOjo3, Vector2 posicion del tercer ojo
+35. posText, Vector2 posicion del tiempo
+36. posZombie, Vector2 posicion del zombie
+37. posVida, Vector2[3] posiciones de las vidas
+
+38. cPj, Microsoft.Xna.Framework.Color indica el color del personaje
+39. cVida, Microsoft.Xna.Framework.Color[3] indica el color de las vidas
+        
+40. bPj, BoundingBox caja de colision del personaje 
+41. bZombie, BoundingBox caja de colision del zombie
+        
+42. bOjo1, BoundingSphere esfera de colision del primer ojo
+43. bOjo2, BoundingSphere esfera de colision del segundo ojo
+44. bOjo3, BoundingSphere esfera de colision del tercer ojo
+
+45. sKill, SoundEffect sonido de la muerte del personaje
+46. sHit, SoundEffect sonido del golpe del personaje
+47. sAbrir, SoundEffect sonido del menu al abrir
+48. sCerrar, SoundEffect sonido del menu al cerrar
+49. sTick, SoundEffect sonido del menu al clickear
+50. sMusic, Song musica de fondo
+
+51. txtJuego, SpriteFont tipo de fuente en el juego
+52. txtMenu, SpriteFont tipo de fuente en el menu
+
+52. AnimOjo1, PersonajeAnimado clase que anima el primer ojo
+53. AnimOjo2, PersonajeAnimado clase que anima el segundo ojo
+54. AnimOjo3, PersonajeAnimado clase que anima el tercer ojo
+55. AnimPj, PersonajeAnimado clase que anima el personaje
+56. AnimZombie; PersonajeAnimado clase que anima el zombie
+
+57. texto, textof, StringBuilder se encargan de cargar el puntaje
+  
+58. iZombie, SpriteEffects indica si esta invertido horizontalmente el zombie
+59. iPj,  SpriteEffects indica si esta invertido horizontalmente el personaje

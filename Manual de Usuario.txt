@@ -1,0 +1,14 @@
+El personaje se mueve con las flechas del teclado.
+El zombie bloquea el camino para obstaculizar tu movimiento.
+Te podes teletransportar de una punta a otra.
+
+Meta modo normal: No ser tocado por el/los ojo/s durante el tiempo limite mas de 3 veces.
+Meta modo supervivencia: No ser tocado por el/los ojo/s todo el tiempo posible mas de 3 veces.
+
+ESC para volver al menu
+
+ Creditos
+ * Diseno y Programacion: Uriel Emiliano
+ * Sprites: Terraria http://terraria.org/
+ * Tema musical: Soul Showdown by Maelstromrealm http://www.newgrounds.com/audio/listen/588099
+ * Sonidos: Terraria http://terraria.org/

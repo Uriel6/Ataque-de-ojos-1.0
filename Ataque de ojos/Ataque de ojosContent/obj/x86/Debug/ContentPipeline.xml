@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background_175.png</Source>
+      <Name>Background_175</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Background_175.xnb</Output>
+      <Time>2014-10-01T12:06:55.190692-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Ganaste.png</Source>
+      <Name>Ganaste</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Ganaste.xnb</Output>
+      <Time>2014-10-01T12:09:40.1244074-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Heart.png</Source>
+      <Name>Heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Heart.xnb</Output>
+      <Time>2014-10-01T12:09:40.2585966-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Perdiste.png</Source>
+      <Name>Perdiste</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Perdiste.xnb</Output>
+      <Time>2014-10-01T12:12:04.1148348-03:00</Time>
+    </Item>
+    <Item>
+      <Source>NPC_4.png</Source>
+      <Name>NPC_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_4.xnb</Output>
+      <Time>2014-10-03T00:19:53.2150928-03:00</Time>
+    </Item>
+    <Item>
+      <Source>NPC_17.png</Source>
+      <Name>NPC_17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_17.xnb</Output>
+      <Time>2014-10-01T12:09:42.1877128-03:00</Time>
+    </Item>
+    <Item>
+      <Source>NPC_3.png</Source>
+      <Name>NPC_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_3.xnb</Output>
+      <Time>2014-10-03T00:10:53.2557694-03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.png</Source>
+      <Name>menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2014-10-03T20:59:12.3580484-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Background_14.png</Source>
+      <Name>Background_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Background_14.xnb</Output>
+      <Time>2014-10-03T00:27:09.3264682-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player_Hit_0.wav</Source>
+      <Name>Player_Hit_0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Player_Hit_0.xnb</Output>
+      <Time>2014-09-29T22:41:57.7260049-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Player_Killed.wav</Source>
+      <Name>Player_Killed</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Player_Killed.xnb</Output>
+      <Time>2014-09-29T22:41:57.7521815-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Close.wav</Source>
+      <Name>Menu_Close</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Close.xnb</Output>
+      <Time>2014-09-28T22:44:38.3265412-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Open.wav</Source>
+      <Name>Menu_Open</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Open.xnb</Output>
+      <Time>2014-09-28T22:44:38.3377456-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu_Tick.wav</Source>
+      <Name>Menu_Tick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Tick.xnb</Output>
+      <Time>2014-09-28T22:44:38.3447455-03:00</Time>
+    </Item>
+    <Item>
+      <Source>txtJuego.spritefont</Source>
+      <Name>txtJuego</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\txtJuego.xnb</Output>
+      <Time>2014-10-15T21:53:23.3203678-03:00</Time>
+    </Item>
+    <Item>
+      <Source>txtMenu.spritefont</Source>
+      <Name>txtMenu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\txtMenu.xnb</Output>
+      <Time>2014-10-15T21:53:20.991185-03:00</Time>
+    </Item>
+    <Item>
+      <Source>588099_Soul-Showdown.mp3</Source>
+      <Name>588099_Soul-Showdown</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\588099_Soul-Showdown.xnb</Output>
+      <Extra>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\588099_Soul-Showdown.wma</Extra>
+      <Time>2014-10-26T01:51:11.1025262-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Ataque de ojos\Ataque de ojos\Ataque de ojosContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Ataque de ojos\Ataque de ojos\Ataque de ojosContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-26T12:13:31.0026769-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

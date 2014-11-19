@@ -1,0 +1,48 @@
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Background_175.xnb
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Ganaste.xnb
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Heart.xnb
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Player_Hit_0.xnb
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Player_Killed.xnb
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Ataque de ojos.exe
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Ataque de ojos.pdb
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Ataque de ojos.exe
+e:\Ataque de ojos\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Ataque de ojos.pdb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Perdiste.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_4.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_17.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_3.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\txtJuego.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\txtMenu.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\menu.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Background_14.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Close.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Open.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Tick.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Ataque de ojos.csprojResolveAssemblyReference.cache
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Background_175.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Ganaste.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Heart.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Perdiste.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_4.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_17.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\NPC_3.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\menu.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Background_14.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Player_Hit_0.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Player_Killed.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Close.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Open.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\Menu_Tick.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\txtJuego.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\txtMenu.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\06 Boss 1.xnb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\06 Boss 1.wma
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Ataque de ojos.exe
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Ataque de ojos.pdb
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Ataque de ojos.csprojResolveAssemblyReference.cache
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Ataque de ojos.exe
+E:\Ataque de ojos roto\Ataque de ojos\Ataque de ojos\obj\x86\Debug\Ataque de ojos.pdb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\588099_Soul-Showdown.xnb
+E:\Ataque de ojos\Ataque de ojos\Ataque de ojos\bin\x86\Debug\Content\588099_Soul-Showdown.wma
